@@ -1,1 +1,7 @@
 tareas
+<<<<<<< HEAD
+cambios locales
+=======
+
+Cambios remotamente
+>>>>>>> origin/master
